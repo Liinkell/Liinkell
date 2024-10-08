@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Liinkell/Liinkell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Liinkell/Liinkell is a ✨ special ✨ repository because its `README.md` (spamwa) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
